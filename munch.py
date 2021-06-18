@@ -31,7 +31,6 @@ print("Hello, I'm Much, I'll help to plan your dinner menu...")
 answer = input("how many days?  ")
 print("okay, I'll plan for " + str(answer) + " dinners from your fav meal list")
 
-
 #----------------------------------------
 #2. choose dishes
 chooseDishes(answer)
